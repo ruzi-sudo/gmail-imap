@@ -10,8 +10,11 @@
     "typescript": "^5"
   },
   "dependencies": {
+    "@types/lodash": "^4.17.23",
     "@types/mailparser": "^3.4.6",
+    "i": "^0.3.7",
     "imapflow": "^1.2.6",
+    "lodash": "^4.17.23",
     "mailparser": "^3.9.1"
   }
 }
